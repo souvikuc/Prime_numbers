@@ -7,4 +7,4 @@ This repository contains different functions for prime number calculation\\
 **getExponent.py**  - Calculates the highest power of a number that divides another number\
 **getPrime.py**  - Finds n-th primes starting from a . If a is prime it will count a as first prime\
 **isPrime.py**  - Checks if a number is prime\
-**primeDivisors.py**  - Finds the prime divisors along with their number of occurences (power) as list of tuples\
+**primeDivisors.py**  - Finds the prime divisors along with their number of occurences (power) as list of tuples
